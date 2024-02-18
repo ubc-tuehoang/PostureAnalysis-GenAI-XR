@@ -1,3 +1,9 @@
+
+- Dare to dream
+- Ignite your inspiration and innovation
+- Strive for excellence
+- Explore together & unlock the world's knowledge
+
 # PostureAnalysis-GenAI-XR
 This is not just a feature; it's a paradigm shift in posture analysis, integrating artificial intelligence and virtual reality to provide a holistic understanding of body language and emotional responses, an innovative solution that combines cutting-edge Artificial Neural Networks (ANN) and Extended Reality (XR) technologies. Harnessing the power of artificial intelligence and extended reality to provide unparalleled insights into body language and microexpressions in real-time.
 
